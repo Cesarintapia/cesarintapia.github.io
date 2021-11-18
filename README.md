@@ -1,7 +1,21 @@
 # cesarintapia.github.io
 Software development
 
-The portfolio project has the next topics:
+The portfolio project has the next topics0:
+
+* HTML AND CSS
+    -ONE PAGE WEB SITE.
+    -SPACE TRAVEL.
+    -BOOTSTRAP4 PROJECT
+    
+* JAVA SCRIPT
+    -CALCULATOR
+    -TIC-TAC-TOE
+    -PIZZA PROJECT
+    -STUDENT PORTFOLIO.
+    -ADDING JAVA SCRIPT TO HTML AND CSS
+
+MY PORTFOLIO STUDENT.
 
 VIDEO ABOUT STARS
 
