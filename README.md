@@ -1,7 +1,7 @@
 # cesarintapia.github.io
 Software development
 
-The portfolio project has the next topics0:
+The portfolio project has the next topics:
 
 * HTML AND CSS
     -ONE PAGE WEB SITE.
@@ -14,7 +14,11 @@ The portfolio project has the next topics0:
     -PIZZA PROJECT
     -STUDENT PORTFOLIO.
     -ADDING JAVA SCRIPT TO HTML AND CSS
-
+ 
+ * UNITY
+   -THE MAZE GAME.
+   -THE SOLAR SYSTEM GAME.
+   
 MY PORTFOLIO STUDENT.
 
 VIDEO ABOUT STARS
@@ -33,5 +37,4 @@ The tool for my repositories and place where you can find my developments.
 
 CONTACT
 
-Try to find me in using this formulary
-
+Try to find me in using this formulary.
